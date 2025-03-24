@@ -1,8 +1,8 @@
 # newproject
- # new
-#DASSSSSSSSS
-#SAD
-#SADSAD
-#ASADDDDDD
+# new
+# DASSSSSSSSS
+# SAD
+# SADSAD
+# ASADDDDDD
 # line added 
 # git pull origin main
